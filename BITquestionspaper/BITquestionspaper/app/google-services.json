@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "909482056130",
+    "firebase_url": "https://bit-questions-paper.firebaseio.com",
+    "project_id": "bit-questions-paper",
+    "storage_bucket": "bit-questions-paper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909482056130:android:4eb2fc5855743f43fdde5b",
+        "android_client_info": {
+          "package_name": "com.visualcelebrities.bitquestionspaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909482056130-dseoup8k32td2tu2tjbr949jgamdo6qi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuiGfzms4eobKVGKOntdX3F702_MhN3KM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909482056130-dseoup8k32td2tu2tjbr949jgamdo6qi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
